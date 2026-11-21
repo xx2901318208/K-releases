@@ -1,10 +1,10 @@
 {
   "version": "3.3",
-  "versionCode": 30724,
-  "commit": "4f0b43e41a8482a5f450fbb13e574a478834d083",
-  "commitShort": "4f0b43e4",
-  "apkSize": 5298168,
-  "apkSha256": "0d99d35158dd05868f2d0db9454088122fb1124add87bd648d06a315dc18049c",
+  "versionCode": 30725,
+  "commit": "6ac0ae7333a8590f75683404880acf820370e2bd",
+  "commitShort": "6ac0ae73",
+  "apkSize": 5300976,
+  "apkSha256": "c715f19c6b90c5c17dd75a41a75ce7187465f9002e4991549dba27c4647d0e94",
   "apkUrl": "https://github.com/xx2901318208/K/releases/download/latest/K.apk",
-  "updatedAt": "2026-11-21T21:17:47+08:00"
+  "updatedAt": "2026-11-21T21:59:21+08:00"
 }
